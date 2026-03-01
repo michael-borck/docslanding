@@ -1,5 +1,9 @@
 # Jekyll Documentation Theme
 
+<!-- BADGES:START -->
+[![dark-mode](https://img.shields.io/badge/-dark--mode-blue?style=flat-square)](https://github.com/topics/dark-mode) [![documentation](https://img.shields.io/badge/-documentation-blue?style=flat-square)](https://github.com/topics/documentation) [![github-pages](https://img.shields.io/badge/-github--pages-blue?style=flat-square)](https://github.com/topics/github-pages) [![jekyll](https://img.shields.io/badge/-jekyll-blue?style=flat-square)](https://github.com/topics/jekyll) [![landing-page](https://img.shields.io/badge/-landing--page-blue?style=flat-square)](https://github.com/topics/landing-page) [![responsive-design](https://img.shields.io/badge/-responsive--design-blue?style=flat-square)](https://github.com/topics/responsive-design) [![script-generation](https://img.shields.io/badge/-script--generation-blue?style=flat-square)](https://github.com/topics/script-generation) [![seo](https://img.shields.io/badge/-seo-blue?style=flat-square)](https://github.com/topics/seo) [![tailwind-css](https://img.shields.io/badge/-tailwind--css-blue?style=flat-square)](https://github.com/topics/tailwind-css) [![tool](https://img.shields.io/badge/-tool-607d8b?style=flat-square)](https://github.com/topics/tool)
+<!-- BADGES:END -->
+
 A beautiful, responsive Jekyll theme designed for **script-generated landing pages** + **automatic documentation**. Perfect for projects that generate landing pages from README.md and want integrated documentation.
 
 ## Features
